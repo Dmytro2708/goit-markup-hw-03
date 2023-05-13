@@ -145,9 +145,6 @@ body {
   padding-top: 188px;
   padding-bottom: 188px;
 }
-.hero .container {
-  margin-top: 72px;
-}
 
 .hero-title {
   color: var(--main-background-color);
@@ -268,7 +265,6 @@ body {
 .team-item {
   background-color: var(--main-background-color);
   border-bottom: 1px solid var(--color-border);
-  margin-bottom: 120px;
   border-radius: 0px 0px 4px 4px;
 }
 
